@@ -52,7 +52,7 @@ def library_system():
     book1 = Book("The Great Gatsby", "F. Scott Fitzgerald")
     book2 = Book("1984", "George Orwell")
     book3 = Book("To Kill a Mockingbird", "Harper Lee")
-    member = LibraryMember("Eric Rono", "M123")
+    member = LibraryMember("Eric Rono", "SU1")
 
     while True:
         print("\nLibrary Management System")
